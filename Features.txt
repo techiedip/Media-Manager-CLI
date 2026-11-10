@@ -1,0 +1,7 @@
+• Metadata Scraping: Automatically fetches title, plot, cast, crew, ratings, and runtime from TheMovieDB (TMDB) and TheTVDB.
+• Artwork Management: Downloads posters, fanart, banners, clearlogos, discart, and extrafanarts from Fanart.tv and other providers.
+• NFO Generation: Creates and exports compatible NFO metadata files for Kodi, Plex, Emby, and Jellyfin.
+• File Renaming & Organization: Automatically renames movie files, folders, and TV show episodes using customizable naming patterns and ASCII/character cleanup. (For preferred renaming formats, refer the Movie and TV Show samples provided within the Samples directory.)
+• Subtitle Scraping: Downloads available subtitles via OpenSubtitles and other sources. Try to use free subtitles providers. This app is for personal use only.
+• TV Show Management: Detects multi-season structures, handles special episodes, and groups shows into organized directory trees.
+• Movie Sets: Organizes movie collections into custom sets with dedicated collection artwork and tags.
